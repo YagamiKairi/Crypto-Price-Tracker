@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    vector<string> msg{"This is just message"};
+    vector<string> msg{"I think this is the last commit"};
 
     for (const string &word : msg)
     {
